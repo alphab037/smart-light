@@ -6,7 +6,7 @@ The system integrates computer vision, gesture recognition, and custom control l
 <img width="363" height="327" alt="image" src="https://github.com/user-attachments/assets/6cd9c213-02e7-42e5-add4-c24b7877445c" />
 
 # Flowchart
-<img width="2287" height="1161" alt="image" src="https://github.com/user-attachments/assets/8dfbbc76-5860-47a3-ab34-6ec0f1c77ad8" />
+<img width="1161" height="561" alt="image" src="https://github.com/user-attachments/assets/8dfbbc76-5860-47a3-ab34-6ec0f1c77ad8" />
 
 # Features
 Face and hand recognition for personalized lighting modes.
