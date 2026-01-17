@@ -8,6 +8,10 @@ The system integrates computer vision, gesture recognition, and custom control l
 # Flowchart
 <img width="1161" height="561" alt="image" src="https://github.com/user-attachments/assets/8dfbbc76-5860-47a3-ab34-6ec0f1c77ad8" />
 
+# Demonstration
+<img width="169" height="163" alt="image" src="https://github.com/user-attachments/assets/89667672-9dfa-4fa0-9c53-17a376fc4181" />
+
+
 # Features
 Face and hand recognition for personalized lighting modes.
 Gesture-based control: change colors, brightness, and patterns with simple hand movements.
