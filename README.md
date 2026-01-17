@@ -1,8 +1,8 @@
 # Smart Light System
 This project implements a smart RGB LED lighting system using a Raspberry Pi.
 The system integrates computer vision, gesture recognition, and custom control logic to provide an interactive lighting experience.
-Control your lights with your face and hands — a smart LED experience like never before!
-<img width="1072" height="1033" alt="image" src="https://github.com/user-attachments/assets/2e9af6aa-02da-4d5b-8043-fd7e08ff831a" />
+
+<img width="363" height="350" alt="image" src="https://github.com/user-attachments/assets/2e9af6aa-02da-4d5b-8043-fd7e08ff831a" />
 <img width="363" height="327" alt="image" src="https://github.com/user-attachments/assets/6cd9c213-02e7-42e5-add4-c24b7877445c" />
 
 # Flowchart
